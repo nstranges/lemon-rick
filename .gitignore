@@ -1,0 +1,4 @@
+.env
+ENV
+__pycache__
+out.mp3
